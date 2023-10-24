@@ -1,5 +1,9 @@
-#Análise de ferramentas de Business Intelligence para elaboração de indicadores de dados da Segurança Pública
+**Análise de ferramentas de Business Intelligence para elaboração de indicadores de dados da Segurança Pública**
+
 Experimentos com as ferramentas Microsoft Power BI e Power Query
+
+
+
 
 Nos últimos anos, a quantidade de dados gerados e armazenados tem crescido expo-
 nencialmente. Esse fenômeno, muitas vezes referido como "Big Data", tem implicações sig-
